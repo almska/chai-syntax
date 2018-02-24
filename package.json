@@ -1,0 +1,17 @@
+{
+  "name": "chai-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "syntax theme with a psy vibe",
+  "keywords": [
+    "chai",
+    "psy",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/almska/chai-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
